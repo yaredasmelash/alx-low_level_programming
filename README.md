@@ -1,1 +1,1 @@
-echo "# alx-low_level_programming" >> README.md
+solution to the 0x1E-search_algorithms
